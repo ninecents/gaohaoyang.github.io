@@ -364,7 +364,7 @@ Thanks these friends!!!
 * `[^]` Change the sort of font-family to avoid full-width half-width characters mistake.
 * `[^]` Fix bug in tags cloud when division by zero. [#26](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/26), [#28](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/28), [#30](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/30)
 
-### 2016.5.11 v2.0.1
+### 2016.5.11 v2.0.11
 
 * `[^]` Optimized code, Extracting common code to `comments.html`
 * `[+]` Add Google Analysis and Baidu Statistics
